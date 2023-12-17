@@ -2,7 +2,7 @@
 
 Welcome to the 100xDevs Full Stack Web Development Cohort repository! This repository contains the code files and related materials for the cohort's journey. The cohort is designed to guide you through various aspects of web development, providing hands-on experience and valuable insights.
 
-## Week 1.1 - Foundations and Asynchronous Nature of JavaScript
+## Week 1.2 - Foundations and Asynchronous Nature of JavaScript
 
 ### Blog Notes
 
@@ -25,7 +25,7 @@ Feel free to navigate through the directories and files to examine the code exam
 
 2. Navigate to the specific week and section you are interested in.
    ```bash
-   cd 1.1
+   cd week-1.2
    ```
 
 3. Open the code files in your preferred code editor and follow along with the blog post.
