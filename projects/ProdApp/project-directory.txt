@@ -1,0 +1,2 @@
+6. In the authentication, you may get the illegal argument string error in hashing the password, to deal with it
+just convert the password, which you are getting from the body into string, as done in api>index.js.
