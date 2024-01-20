@@ -138,3 +138,4 @@ Welcome to the 100XDevs Full Stack Web Development Cohort GitHub repository! Thi
 ### Scaling Node.js
 
 use this codebase to understand the cohort syllabus, assignments and learnings. Even though you are not the part of cohort.
+Community learning
