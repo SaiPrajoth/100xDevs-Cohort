@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <button onclick="getData()">Click here for data</button>
+    <script>
+      function getData(){
+          const response = fetch('https://api.thecatapi.com/v1/persons').then(async(result)=>{
+            const response2 = await result.json();
+            console.log(response2);
+          }
+          ).catch((err)=>{console.log(err.message)})
+           // by default this will be a get request, but you can change the method
+          // alert("Hi there")
+      }
+    </script>
+  </body>
+</html>

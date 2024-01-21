@@ -1,0 +1,113 @@
+body{
+  background-color: #1A244D;
+  box-sizing: border-box;
+}
+
+main{
+  padding: 25px;
+  margin: auto;
+  max-width: 900px;
+  background-color: #1A244D;
+}
+header{
+  display: flex;
+  justify-content: space-between;
+}
+.logo-image{
+  width: 200px;
+  height: 50px;
+}
+.registration-form form{
+  /* display: inline-block; */
+  max-width: 500px;
+  margin: 150px auto;
+  text-align: center;
+  /* background-color: white; */
+  color: #FFCC57;
+  border: 0.5px solid #FFCC57 ;
+  padding: 10px;
+}
+
+form button{
+  display: block;
+  width: 200px;
+  height: 40px;
+  margin: 15px auto;
+  padding: 10px;
+  font-weight: bold;
+}
+form input{
+  display: block;
+  height: 40px;
+  margin: 15px auto;
+  padding: 10px;
+  width: 80%;
+  margin: 15px auto;
+}
+
+.login-text{
+  text-decoration: none;
+  color: #FFCC57;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.register-text{
+  text-decoration: none;
+  color: #FFCC57;
+  font-weight: bold;
+  text-decoration: underline;
+}
+.nav-links{
+  display: flex;
+  justify-content: space-between;
+  gap: 50px;
+  align-items: center;
+  /* background-color: white;
+  width: 200px; */
+}
+.info-icon,.user-icon{
+  height: 45px;
+  width: 45px;
+  /* padding: 10px; */
+  color:#FFCC57 ;
+}
+.platform-container{
+  display: flex;
+  align-items: center;
+  width: 100%;
+  background-color:#FFCC57;
+  border: 3px solid black;
+  border-radius: 7px;
+  justify-content: space-around;
+  height: 80px;
+}
+.platform-displayer{
+  width: 80%;
+  margin: 50px auto;
+  background-color: #D9D9D9;
+  height: 300px;
+  border-radius: 5px;
+}
+
+.icons{
+  height: 60px;
+  width: 60px;
+} 
+
+#reddit-icon{
+  color: #FF4500;
+}
+#linkedin-icon{
+  color: #0077B5;
+}
+#hashnode-icon{
+  color: #2962ff;
+}
+.submit-blog{
+  background-color: #676DFB;
+  width: 150px;
+  height: 50px;
+  margin: 15px auto;
+  border: none;
+  border-radius: 5px;
+}
