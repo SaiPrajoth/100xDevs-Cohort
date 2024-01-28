@@ -8,3 +8,4 @@ const UpdateTodo = z.object({
     completed:z.string()
 })
 
+const response = CreateTodo.safeParse({title:"title",description:"description"}); // validates if the inputs types are as specified
