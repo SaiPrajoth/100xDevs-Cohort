@@ -1,6 +1,8 @@
 # 100XDevs Full Stack Web Development Cohort
 
+Welcome to the 100XDevs Full Stack Web Development Cohort GitHub repository! This comprehensive 5+ months / 20+ weeks program is designed to provide you with a deep understanding of various aspects of full-stack web development. Whether you're a beginner or an experienced developer, this cohort will take you through a journey of building robust and scalable web applications.
 
+find the course syllabus and curriculum below
 
 ## Table of Contents
 1. [Foundation](#foundation)
